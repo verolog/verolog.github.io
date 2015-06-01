@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /research/faculty/organisation/dekanat/staff/infpub/
+Disallow: /forschung/fakultaet/organisation/dekanat/mitarbeiterin/infpub/
+Disallow: /wann-und-wo/wissenschaftskalender/
+Disallow: /fileadmin/preotected/
+Disallow: /fileadmin/preotected-mitarbeiterinnen/
+Disallow: /fileadmin/scripts/
+Disallow: /fileadmin/styles/
+Disallow: /fileadmin/template/
+Disallow: /fileadmin/templates/
+Disallow: /fileadmin/test/
+Disallow: /fileadmin/uni_logos/
+Disallow: /fileadmin/vtour/old/
+Disallow: /fileadmin/xml/
+Disallow: /fileadmin/_temp_/
+Disallow: /fileadmin/fonts/
+Disallow: /fileadmin/flags_changed/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+
+#Disallow: /fileadmin/.svn/
+#Disallow: /.svn/
